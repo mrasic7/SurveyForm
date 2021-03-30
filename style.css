@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+#survey-form {
+  background-color: aqua;
+}
+
+.input-div {
+  width: 95%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.input {
+  width: 95%;
+}
